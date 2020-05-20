@@ -6,3 +6,12 @@
   >eye.png, question_mark.png 파일 추가 및 shape_predictor_68_face_landmarks.dat 파일 위치 수정  
   >**코드 실행시**  
   >pyqt5 설치 필요
+  
+**5.20**  (gaze_tracking 기본 코드(CV2 part)) branch 
+--------------------------------
+  >**변경사항**  
+  >example.py에서  Eyetracking_0501.py로 코드파일 변경 및 수정,
+  >gazetracking 파일 코드 수정
+
+
+  
